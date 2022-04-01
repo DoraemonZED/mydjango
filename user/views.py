@@ -2,5 +2,5 @@ from django.shortcuts import render, HttpResponse
 
 # Create your views here.
 def index(req):
-    return HttpResponse('欢迎')
+    return HttpResponse('test123')
 
